@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704939252962",
+    "firebase_url": "https://training-login-acazia.firebaseio.com",
+    "project_id": "training-login-acazia",
+    "storage_bucket": "training-login-acazia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704939252962:android:a8acb9c8179a5a4c9992bb",
+        "android_client_info": {
+          "package_name": "com.acaziasoft.acazia_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704939252962-tnctab1n3admmugqbkse635g9ls059nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiQhWZxviUFoMiTYcBfL3309M7_RDwJyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704939252962-tnctab1n3admmugqbkse635g9ls059nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
